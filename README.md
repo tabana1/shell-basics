@@ -1,4 +1,5 @@
 # Shell Basics
+this task is supervised by Ivovle Technologies
 
 ## Overview
 
@@ -15,4 +16,3 @@ A script to ping every server in a specified network range. It displays a messag
 1. Edit the script to set the correct network range.
    ```bash
    NETWORK="192.168.1"
-this task is supervised by Ivovle Technologies
